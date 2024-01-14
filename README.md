@@ -1,7 +1,3 @@
-Certainly! Below is a simple example of a README file for your Node.js and Express API with MongoDB using `nodemon`.
-
----
-
 # Inventory Management API
 
 ## Overview
@@ -20,7 +16,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/inventory-api.git
+   git clone https://github.com/Moses-main/inventory-api.git
    ```
 
 2. Install dependencies:
